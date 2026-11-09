@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local expense data
+expenses.csv
